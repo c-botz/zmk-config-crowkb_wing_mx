@@ -1,0 +1,2 @@
+config SHIELD_CROWKB_WING_MX
+    def_bool $(shields_list_contains,crowkb_wing_mx)

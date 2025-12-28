@@ -1,0 +1,6 @@
+if SHIELD_CROWKB_WING_MX
+
+config ZMK_KEYBOARD_NAME
+    default "crowkb_wing_mx"
+
+endif # SHIELD_CROWKB_WING_MX
